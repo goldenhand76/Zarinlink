@@ -27,3 +27,8 @@ test :
 
 format:
 	go fmt ./...
+
+server:
+	go run main.go
+
+	
